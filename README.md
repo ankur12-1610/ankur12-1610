@@ -32,7 +32,7 @@ Email id - ankur.patil.mst20@itbhu.mst20.ac.in
   
 ![Metrics](https://metrics.lecoq.io/ankur12-1610?template=terminal&config.timezone=Asia%2FCalcutta)
   
-  ---
+---
   
  ### Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12-1610&layout=compact)](https://github.com/ankur12-1610/github-readme-stats)
