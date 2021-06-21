@@ -1,4 +1,4 @@
-:--                                                                 
+                                                        
 ###Hi there, I'm [Ankur](http://itsankur.tech/) 👋
 
 <p align="center">
