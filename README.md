@@ -1,4 +1,4 @@
-     <p align="center">                                                                       
+<p align="center">                                                                       
 ### Hi there, I'm [Ankur](http://itsankur.tech/) 👋
 </p>
 <p align="center">
