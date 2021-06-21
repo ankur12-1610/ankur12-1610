@@ -24,13 +24,12 @@ Email id - ankur.patil.mst20@itbhu.mst20.ac.in
 ### Metrics
   
 ![Metrics](https://metrics.lecoq.io/ankur12-1610?template=terminal&config.timezone=Asia%2FCalcutta)
-  <br />
   
   ---
   
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12-1610)](https://github.com/ankur12-1610/github-readme-stats)
- <br />
+ 
   
 <p align="center" style="padding:20px;">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
