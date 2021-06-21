@@ -1,9 +1,7 @@
 ### Hi there, I'm [Ankur](http://itsankur.tech/) 👋
 
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://itsankur.tech/)
-<p align="right">
-<img src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
- </p>
+
 ## I'm a Developer, Entrepreneur,Investor, Designer and Programmer!!
 
 - 💬 self-taught coder
@@ -12,6 +10,9 @@
 - 🔭 interested in web-development, open-source, tech
 - 🖥 develops websites. back-end works.
 - 🧩 likes cycling. skateboarding. football. and webdev
+<p align="right">
+<img src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
+ </p>
 
 <img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula&title=Commit' />
 
