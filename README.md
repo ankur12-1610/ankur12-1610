@@ -11,7 +11,7 @@
 - 🖥 develops websites. back-end works.
 - 🧩 likes cycling. skateboarding. football. and webdev
 <p align="right">
-<img src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
+<img width="20" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
  </p>
 
 <img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula&title=Commit' />
