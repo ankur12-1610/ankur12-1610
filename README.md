@@ -11,7 +11,7 @@
 - 🖥 develops websites. back-end works.
 - 🧩 likes cycling. skateboarding. football. and webdev
 
-<img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula' />
+<img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula&title=commits' />
 
 ### Connect with me:
 Email id - ankur.patil.mst20@itbhu.mst20.ac.in
