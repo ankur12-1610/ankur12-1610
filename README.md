@@ -1,6 +1,6 @@
                                                                             
 ### Hi there, I'm [Ankur](http://itsankur.tech/) 👋
-<p align="center">
+<p align="left">
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
  </p>
  
