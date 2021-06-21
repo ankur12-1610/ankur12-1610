@@ -1,6 +1,7 @@
-<p align="center:>
+<p align="center">
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
  </p>
+                                                                            
 ### Hi there, I'm [Ankur](http://itsankur.tech/) 👋
 
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://itsankur.tech/)
