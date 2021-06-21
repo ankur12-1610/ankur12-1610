@@ -1,5 +1,5 @@
 <div align="center">                                          
-  <h1>Hi there, I'm [Ankur](http://itsankur.tech/) 👋</h1>
+###Hi there, I'm [Ankur](http://itsankur.tech/) 👋
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
 </div>
  
