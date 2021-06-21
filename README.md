@@ -10,7 +10,7 @@
 - 🔭 interested in web-development, open-source, tech
 - 🖥 develops websites. back-end works.
 - 🧩 likes cycling. skateboarding. football. and webdev
-
+<br />
 <img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula&title=Commit' />
 
 ### Connect with me:
