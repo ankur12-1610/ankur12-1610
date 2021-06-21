@@ -30,15 +30,9 @@ Email id - ankur.patil.mst20@itbhu.mst20.ac.in
   
  ### Github Stats:
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12-1610)](https://github.com/ankur12-1610/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12-1610)](https://github.com/ankur12-1610/github-readme-stats)
  
-  
-<p align="center" style="padding:20px;">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/uses-html.svg" />
-<img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" />
-</p>
-  
+
 ---
   
 <br />
