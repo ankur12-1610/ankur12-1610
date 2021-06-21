@@ -1,6 +1,7 @@
-                                                                            
+     <p align="center">                                                                       
 ### Hi there, I'm [Ankur](http://itsankur.tech/) 👋
-<p align="left">
+</p>
+<p align="center">
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
  </p>
  
