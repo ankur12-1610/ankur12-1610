@@ -4,7 +4,7 @@
 <p align="right">
 <img src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
  </p>
-<p align="left">
+<p width="20px" align="left">
 ## I'm a Developer, Entrepreneur,Investor, Designer and Programmer!!
 
 - 💬 self-taught coder
