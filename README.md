@@ -18,7 +18,7 @@
 ---
 
 ### Connect with me:
-Email id - ankur.patil.mst20@itbhu.mst20.ac.in
+Email id - ankur.patil.cd.mat20@itbhu.ac.in
 
 ---
 
