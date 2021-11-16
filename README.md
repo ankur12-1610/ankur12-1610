@@ -1,6 +1,6 @@
 <div align="center">                                          
  <h2>Hi there!, I'm <a href="http://itsankur.tech/" target="_blank">Ankur</a> <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif"></h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </h3>
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
 </div>
  
