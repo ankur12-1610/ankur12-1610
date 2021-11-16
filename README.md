@@ -4,6 +4,7 @@
 </div>
  
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://itsankur.tech/)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </p>
 
 ## I'm a Developer, Entrepreneur, Investor, Designer and Programmer!!!
 - 💬 self-taught coder
