@@ -1,10 +1,10 @@
 <div align="center">                                          
  <h2>Hi there!, I'm <a href="http://itsankur.tech/" target="_blank">Ankur</a> <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif"></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </p>
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
 </div>
  
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://itsankur.tech/)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </p>
 
 ## I'm a Developer, Entrepreneur, Investor, Designer and Programmer!!!
 - 💬 self-taught coder
