@@ -9,7 +9,7 @@
 ## I'm a Developer, Entrepreneur, Investor, Designer and Programmer!!!
 - 💬 self-taught coder
 - 📙 student at Indian Institute of Technology, BHU, Varanasi
-- 🌱 learning Django. REST API.Julia
+- 🌱 learning Django. REST API. Julia
 - 🔭 interested in web-development, open-source, tech
 - 🖥 develops websites. back-end works.
 - 🧩 likes cycling. skateboarding. football. and webdev
