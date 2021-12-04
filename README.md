@@ -35,9 +35,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 ---
   
 ### Github Stats:
- a href="https://github.com/ankur12-1610/github-readme-streak-stats" title="Go to Source">
-      <img align="center" style="padding-right: 50px" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=blood)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur12-1610&layout=compact)](https://github.com/ankur12-1610/github-readme-stats)
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons)    
 
