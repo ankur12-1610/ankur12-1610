@@ -45,6 +45,10 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!--END_SECTION:waka-->
   
   <p>
+   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+   
  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
 <em><b> I love contributing to opensource :)</em>
 </p>
