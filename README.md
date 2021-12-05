@@ -38,7 +38,6 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
  
----
   
 ### Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=dracula)](https://git.io/streak-stats)
