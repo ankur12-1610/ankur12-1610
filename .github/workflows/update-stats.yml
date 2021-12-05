@@ -1,18 +1,24 @@
-
-  
-name: Ankur Patil
+name: WakaTime status update 
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: '1 0 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
+          # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Automatic github token
+          GITHUB_TOKEN: ${{ github.token }}
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "master"
+          # Manual Commit messages - write your own messages here
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+
+
