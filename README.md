@@ -33,10 +33,6 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 ![Metrics](https://metrics.lecoq.io/ankur12-1610?template=terminal&config.timezone=Asia%2FCalcutta)
   
 ---
- 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
   
 ### Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=dracula)](https://git.io/streak-stats)
@@ -44,6 +40,9 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons&theme=dracula)    
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   <p>
  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
