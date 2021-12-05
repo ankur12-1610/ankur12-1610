@@ -1,3 +1,7 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">                                          
  <h2>Hi there!, I'm <a href="http://itsankur.tech/" target="_blank">Ankur</a> <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif"></h2>
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="ankur12-1610" /> </h3>
@@ -40,14 +44,8 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons&theme=dracula)    
 
 ---
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
   
-  <p>
-   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p>
    
  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
 <em><b> I love contributing to opensource :)</em>
