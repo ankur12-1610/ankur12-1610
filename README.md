@@ -30,8 +30,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 
   
 ### Metrics:
-  
-![Metrics](https://metrics.lecoq.io/ankur12-1610?template=terminal&config.timezone=Asia%2FCalcutta)
+<img src="github-metrics.svg" >
   
 ---
 
