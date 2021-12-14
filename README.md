@@ -6,8 +6,6 @@
  
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://itsankur.tech/)
 
-[![Actions Status](https://github.com/ankur12-1610/ankur12-1610/workflows/wakatime-stats/badge.svg)](https://github.com/ankur12-1610/ankur12-1610/actions)
-
 ```yaml
 name: Ankur Patil
 located_in: Maharashtra, India
