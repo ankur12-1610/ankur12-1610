@@ -41,12 +41,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
   
 ### Metrics:
 <img src="github-metrics.svg" >
-  
 ---
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
- 
 
  <!--START_SECTION:waka-->
 
