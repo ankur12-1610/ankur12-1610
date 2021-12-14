@@ -6,13 +6,23 @@
  
 [![Website](https://img.shields.io/website?label=itsankur.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://itsankur.tech/)
 
-## I'm a Developer, Entrepreneur, Investor, Designer and Programmer!!!
-- 💬 self-taught coder
-- 📙 student at Indian Institute of Technology, BHU, Varanasi
-- 🌱 learning Django. REST API. Julia
-- 🔭 interested in web-development, open-source, tech
-- 🖥 develops websites. back-end works.
-- 🧩 likes cycling. skateboarding. football. and webdev
+```yaml
+name: Ankur Patil
+located_in: Maharashtra, India
+education-status: 2nd year undergrad in Mathematics and Computing, IIT (BHU) Varanasi
+
+languages: ["C", "C++", "Python", "ECMA6", "TypeScript", "HTML", "CSS", "Julia"]
+
+technical_interests: ["Web-development", "Open-source", "Devops"]
+
+currently_learning: ["Workflows", "REST APIs", "TypeScript"]
+
+hobbies: ["Football", "Basketball", "Skateboarding", "Cycling", "Investment",
+          "Making RC projects"]
+
+worried_about: CLIMATE CHANGE
+```
+
 
 <img src='https://github-profile-trophy.vercel.app/?username=ankur12-1610&margin-w=38&theme=dracula&title=Commit' />
 
