@@ -14,3 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          IMAGES_FOLDER: "images"
+          COMMIT_MESSAGE: "✅"
+          BRANCH_NAME: "main"
+          GIT_USER_EMAIL: "anknerd.12@gmail.com"
+          GIT_USER_NAME: "ankur12-1610"     
+           
