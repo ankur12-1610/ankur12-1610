@@ -67,9 +67,9 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
+Monday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
 Tuesday      97 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
 Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
 Friday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
 Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
@@ -113,7 +113,7 @@ TypeScript               3 repos             ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ankur12-1610/ankur12-1610/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ankur12-1610/ankur12-1610/master/charts/bar_graph.png) 
 
 
  Last Updated on 15/12/2021
