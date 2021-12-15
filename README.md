@@ -48,7 +48,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Erwin's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
  
 <!--START_SECTION:waka-->
