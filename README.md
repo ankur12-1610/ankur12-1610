@@ -58,6 +58,8 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%202%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -70,9 +72,9 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.34% 
 Tuesday      97 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
+Wednesday    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
 Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35% 
 Friday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
 Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
@@ -100,6 +102,9 @@ lite-hai-backend         22 mins             ░░░░░░░░░░░�
 with-next-page-transition2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
+💻 Operating System: 
+Linux                    10 hrs 49 mins      █████████████████████████   100.0%
+
 ```
 
 **I Mostly Code in HTML** 
@@ -113,10 +118,6 @@ TypeScript               3 repos             ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ankur12-1610/ankur12-1610/master/charts/bar_graph.png) 
 
 
  Last Updated on 15/12/2021
