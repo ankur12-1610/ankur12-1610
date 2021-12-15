@@ -42,8 +42,16 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <img src="github-metrics.svg" >
  
 ---
+ 
+**:zap: Recent Activity:**
+ 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
- <!--START_SECTION:waka-->
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Erwin's%20activity%20graph&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+ 
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-363-blue)
