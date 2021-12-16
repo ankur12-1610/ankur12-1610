@@ -49,10 +49,10 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 **:zap: Recent Activity:**
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20016](https://github.com/vector-im/element-web/issues/20016) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-3. 🎉 Merged PR [#6](https://github.com/ankur12-1610/lite-hai-backend/pull/6) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
-4. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+1. 🎉 Merged PR [#7](https://github.com/ankur12-1610/lite-hai-backend/pull/7) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
+2. 🗣 Commented on [#20016](https://github.com/vector-im/element-web/issues/20016) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+4. 🎉 Merged PR [#6](https://github.com/ankur12-1610/lite-hai-backend/pull/6) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
 5. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 <!--END_SECTION:activity-->
 
