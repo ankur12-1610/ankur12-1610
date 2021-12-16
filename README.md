@@ -50,10 +50,10 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20228](https://github.com/vector-im/element-web/issues/20228) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. ❗️ Opened issue [#4](https://github.com/ankur12-1610/_.port._.folio._/issues/4) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
-3. 🗣 Commented on [#20016](https://github.com/vector-im/element-web/issues/20016) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 💪 Opened PR [#20228](https://github.com/vector-im/element-web/pull/20228) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. ❗️ Opened issue [#3](https://github.com/ankur12-1610/_.port._.folio._/issues/3) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
+2. 🗣 Commented on [#20016](https://github.com/vector-im/element-web/issues/20016) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#20228](https://github.com/vector-im/element-web/issues/20228) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. ❗️ Opened issue [#4](https://github.com/ankur12-1610/_.port._.folio._/issues/4) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
+5. 🗣 Commented on [#20016](https://github.com/vector-im/element-web/issues/20016) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
