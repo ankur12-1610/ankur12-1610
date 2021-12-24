@@ -52,8 +52,8 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 1. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
 2. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
 3. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-5. ❗️ Closed issue [#1](https://github.com/ankur12-1610/_.port._.folio._/issues/1) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
+4. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
+5. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
