@@ -49,10 +49,10 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 **:zap: Recent Activity:**
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7447](https://github.com/matrix-org/matrix-react-sdk/issues/7447) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 💪 Opened PR [#7447](https://github.com/matrix-org/matrix-react-sdk/pull/7447) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-4. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
+1. 🎉 Merged PR [#9](https://github.com/ankur12-1610/lite-hai-backend/pull/9) in [ankur12-1610/lite-hai-backend](https://github.com/ankur12-1610/lite-hai-backend)
+2. 🗣 Commented on [#7447](https://github.com/matrix-org/matrix-react-sdk/issues/7447) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+3. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 💪 Opened PR [#7447](https://github.com/matrix-org/matrix-react-sdk/pull/7447) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 5. 🗣 Commented on [#19913](https://github.com/vector-im/element-web/issues/19913) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
