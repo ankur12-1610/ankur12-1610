@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/ankur12-1610/pull-request-action/pull/16) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-2. ❌ Closed PR [#15](https://github.com/ankur12-1610/pull-request-action/pull/15) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-3. 💪 Opened PR [#15](https://github.com/ankur12-1610/pull-request-action/pull/15) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-4. ❌ Closed PR [#14](https://github.com/ankur12-1610/pull-request-action/pull/14) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-5. 💪 Opened PR [#14](https://github.com/ankur12-1610/pull-request-action/pull/14) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+1. ❌ Closed PR [#23](https://github.com/ankur12-1610/pull-request-action/pull/23) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+2. 💪 Opened PR [#24](https://github.com/ankur12-1610/pull-request-action/pull/24) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. 💪 Opened PR [#23](https://github.com/ankur12-1610/pull-request-action/pull/23) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. ❌ Closed PR [#22](https://github.com/ankur12-1610/pull-request-action/pull/22) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+5. 💪 Opened PR [#22](https://github.com/ankur12-1610/pull-request-action/pull/22) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
