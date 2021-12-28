@@ -42,6 +42,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Showing off your Dev Metrics on your Github Readme profile using WakaTime](https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde)
 <!-- HASHNODE_BLOG:END -->
 
 ---
