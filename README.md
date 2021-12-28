@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/ankur12-1610/pull-request-action/pull/5) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-2. ❌ Closed PR [#6](https://github.com/ankur12-1610/pull-request-action/pull/6) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-3. ❌ Closed PR [#7](https://github.com/ankur12-1610/pull-request-action/pull/7) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-4. ❌ Closed PR [#8](https://github.com/ankur12-1610/pull-request-action/pull/8) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-5. ❌ Closed PR [#9](https://github.com/ankur12-1610/pull-request-action/pull/9) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+1. 💪 Opened PR [#2](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/2) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
+2. 💪 Opened PR [#1](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/1) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
+3. ❌ Closed PR [#5](https://github.com/ankur12-1610/pull-request-action/pull/5) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. ❌ Closed PR [#6](https://github.com/ankur12-1610/pull-request-action/pull/6) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+5. ❌ Closed PR [#7](https://github.com/ankur12-1610/pull-request-action/pull/7) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
