@@ -40,7 +40,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
   
 ---
  
-**My Latest Blog Posts 👇**
+### My Latest Blog Posts 👇:
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime"   /></a>
 <a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><strong>Showing off your Dev Metrics on your Github Readme profile using WakaTime</strong></a>
@@ -51,7 +51,7 @@ One way to do this...</td></tr></table>
 
 ---
  
-**:zap: Recent Activity:**
+### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7449](https://github.com/matrix-org/matrix-react-sdk/issues/7449) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
