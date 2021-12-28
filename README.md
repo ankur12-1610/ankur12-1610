@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ankur12-1610/pull-request-action/pull/1) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-2. 🗣 Commented on [#7449](https://github.com/matrix-org/matrix-react-sdk/issues/7449) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 🗣 Commented on [#7449](https://github.com/matrix-org/matrix-react-sdk/issues/7449) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-4. 🗣 Commented on [#20331](https://github.com/vector-im/element-web/issues/20331) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. 💪 Opened PR [#7449](https://github.com/matrix-org/matrix-react-sdk/pull/7449) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 🗣 Commented on [#775](https://github.com/kiwix/kiwix-js/issues/775) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+2. 💪 Opened PR [#4](https://github.com/ankur12-1610/pull-request-action/pull/4) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. ❌ Closed PR [#3](https://github.com/ankur12-1610/pull-request-action/pull/3) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. 💪 Opened PR [#3](https://github.com/ankur12-1610/pull-request-action/pull/3) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+5. 💪 Opened PR [#2](https://github.com/ankur12-1610/pull-request-action/pull/2) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
