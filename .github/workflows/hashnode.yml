@@ -19,4 +19,4 @@ jobs:
           USERNAME: 'ankur12' # Hashnode Username
           COUNT: 5 # MAX Visisble
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
