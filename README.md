@@ -42,11 +42,11 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<h3><a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime">Showing off your Dev Metrics on your Github Readme profile using WakaTime</a></h3>
-<a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime" width="400px" align="" /></a>
+<table><tr><td><a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime"   /></a>
+<a href="https://ankur12.hashnode.dev/showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime-ckxncff0k06xb71s1dgpd2tde" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><strong>Showing off your Dev Metrics on your Github Readme profile using WakaTime</strong></a>
 <div><strong>26 Dec 2021</strong> | <strong>Updated: 26 Dec 2021</strong></div>
-<p>Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. So, you should put an effort into making your profile stand out. 
-One way to do this...</p>
+<br/> Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. So, you should put an effort into making your profile stand out. 
+One way to do this...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
 ---
