@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/ankur12-1610/pull-request-action/pull/40) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-2. ❌ Closed PR [#39](https://github.com/ankur12-1610/pull-request-action/pull/39) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-3. 💪 Opened PR [#39](https://github.com/ankur12-1610/pull-request-action/pull/39) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-4. 🗣 Commented on [#20228](https://github.com/vector-im/element-web/issues/20228) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. ❌ Closed PR [#33](https://github.com/ankur12-1610/pull-request-action/pull/33) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+1. 💪 Opened PR [#8](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/8) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
+2. 💪 Opened PR [#40](https://github.com/ankur12-1610/pull-request-action/pull/40) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. ❌ Closed PR [#39](https://github.com/ankur12-1610/pull-request-action/pull/39) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. 💪 Opened PR [#39](https://github.com/ankur12-1610/pull-request-action/pull/39) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+5. 🗣 Commented on [#20228](https://github.com/vector-im/element-web/issues/20228) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
