@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/ankur12-1610/_.port._.folio._/pull/11) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
-2. 💪 Opened PR [#10](https://github.com/ankur12-1610/_.port._.folio._/pull/10) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
-3. 💪 Opened PR [#9](https://github.com/ankur12-1610/_.port._.folio._/pull/9) in [ankur12-1610/_.port._.folio._](https://github.com/ankur12-1610/_.port._.folio._)
-4. ❌ Closed PR [#12](https://github.com/ankur12-1610/pull-request-action/pull/12) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-5. ❌ Closed PR [#13](https://github.com/ankur12-1610/pull-request-action/pull/13) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+1. 🎉 Merged PR [#15](https://github.com/ankur12-1610/pull-request-action/pull/15) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+2. 💪 Opened PR [#15](https://github.com/ankur12-1610/pull-request-action/pull/15) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. ❌ Closed PR [#1](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/1) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
+4. ❌ Closed PR [#2](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/2) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
+5. ❌ Closed PR [#3](https://github.com/ankur12-1610/Tic-Tac-Toe/pull/3) in [ankur12-1610/Tic-Tac-Toe](https://github.com/ankur12-1610/Tic-Tac-Toe)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
