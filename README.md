@@ -134,7 +134,7 @@ TypeScript               3 repos             ███░░░░░░░░�
 ---
 
 ### Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-16101&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=dracula)](https://git.io/streak-stats)
 ![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons&theme=dracula)
 ---
   
