@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ankur12-1610/Git-Rebase/pull/2) in [ankur12-1610/Git-Rebase](https://github.com/ankur12-1610/Git-Rebase)
-2. 🎉 Merged PR [#1](https://github.com/ankur12-1610/Git-Rebase/pull/1) in [ankur12-1610/Git-Rebase](https://github.com/ankur12-1610/Git-Rebase)
-3. ❌ Closed PR [#44](https://github.com/ankur12-1610/pull-request-action/pull/44) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-4. ❌ Closed PR [#45](https://github.com/ankur12-1610/pull-request-action/pull/45) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-5. ❌ Closed PR [#46](https://github.com/ankur12-1610/pull-request-action/pull/46) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+1. 💪 Opened PR [#52](https://github.com/ankur12-1610/pull-request-action/pull/52) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+2. ❌ Closed PR [#51](https://github.com/ankur12-1610/pull-request-action/pull/51) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. 💪 Opened PR [#51](https://github.com/ankur12-1610/pull-request-action/pull/51) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. 💪 Opened PR [#50](https://github.com/ankur12-1610/pull-request-action/pull/50) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+5. 💪 Opened PR [#49](https://github.com/ankur12-1610/pull-request-action/pull/49) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
