@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ankur12-1610/Twee/pull/4) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
-2. 💪 Opened PR [#3](https://github.com/ankur12-1610/Twee/pull/3) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
-3. ❌ Closed PR [#1](https://github.com/ankur12-1610/Twee/pull/1) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
-4. ❌ Closed PR [#2](https://github.com/ankur12-1610/Twee/pull/2) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
-5. 💪 Opened PR [#2](https://github.com/ankur12-1610/Twee/pull/2) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
+1. 💪 Opened PR [#9](https://github.com/ankur12-1610/Twee/pull/9) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
+2. 💪 Opened PR [#66](https://github.com/ankur12-1610/pull-request-action/pull/66) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+3. 💪 Opened PR [#8](https://github.com/ankur12-1610/Twee/pull/8) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
+4. 💪 Opened PR [#7](https://github.com/ankur12-1610/Twee/pull/7) in [ankur12-1610/Twee](https://github.com/ankur12-1610/Twee)
+5. 💪 Opened PR [#65](https://github.com/ankur12-1610/pull-request-action/pull/65) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
