@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/ankur12-1610/pull-request-action/pull/81) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-2. 💪 Opened PR [#4](https://github.com/ankur12-1610/test-act/pull/4) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
-3. 💪 Opened PR [#3](https://github.com/ankur12-1610/test-act/pull/3) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
-4. 💪 Opened PR [#2](https://github.com/ankur12-1610/test-act/pull/2) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
-5. 💪 Opened PR [#1](https://github.com/ankur12-1610/test-act/pull/1) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+1. ❗️ Opened issue [#10](https://github.com/ankur12-1610/test-act/issues/10) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+2. 💪 Opened PR [#9](https://github.com/ankur12-1610/test-act/pull/9) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+3. ❗️ Opened issue [#8](https://github.com/ankur12-1610/test-act/issues/8) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+4. 💪 Opened PR [#7](https://github.com/ankur12-1610/test-act/pull/7) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+5. ❌ Closed PR [#6](https://github.com/ankur12-1610/test-act/pull/6) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
