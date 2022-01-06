@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ankur12-1610/demo/pull/2) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
-2. ❌ Closed PR [#3](https://github.com/ankur12-1610/demo/pull/3) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
-3. ❌ Closed PR [#4](https://github.com/ankur12-1610/demo/pull/4) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
-4. ❌ Closed PR [#5](https://github.com/ankur12-1610/demo/pull/5) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
-5. 💪 Opened PR [#5](https://github.com/ankur12-1610/demo/pull/5) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
+1. 🗣 Commented on [#779](https://github.com/kiwix/kiwix-js/issues/779) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+2. ❌ Closed PR [#2](https://github.com/ankur12-1610/demo/pull/2) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
+3. ❌ Closed PR [#3](https://github.com/ankur12-1610/demo/pull/3) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
+4. ❌ Closed PR [#4](https://github.com/ankur12-1610/demo/pull/4) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
+5. ❌ Closed PR [#5](https://github.com/ankur12-1610/demo/pull/5) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
