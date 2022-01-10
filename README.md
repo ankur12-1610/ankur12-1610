@@ -57,8 +57,8 @@ One way to do this...</td></tr></table>
 1. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 2. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 3. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-4. 💪 Opened PR [#6](https://github.com/ankur12-1610/demo/pull/6) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
-5. ❌ Closed PR [#10](https://github.com/ankur12-1610/pull-request-action/pull/10) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+4. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+5. 💪 Opened PR [#6](https://github.com/ankur12-1610/demo/pull/6) in [ankur12-1610/demo](https://github.com/ankur12-1610/demo)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
