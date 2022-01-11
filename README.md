@@ -54,10 +54,10 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/ankur12-1610/test-act/issues/22) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
-2. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-3. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-4. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+1. ❗️ Opened issue [#25](https://github.com/ankur12-1610/test-act/issues/25) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+2. ❗️ Opened issue [#24](https://github.com/ankur12-1610/test-act/issues/24) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+3. ❗️ Opened issue [#23](https://github.com/ankur12-1610/test-act/issues/23) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+4. ❗️ Opened issue [#22](https://github.com/ankur12-1610/test-act/issues/22) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
 5. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 <!--END_SECTION:activity-->
 
