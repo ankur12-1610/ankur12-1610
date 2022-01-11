@@ -54,11 +54,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20476](https://github.com/vector-im/element-web/issues/20476) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#20465](https://github.com/vector-im/element-web/issues/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 💪 Opened PR [#20465](https://github.com/vector-im/element-web/pull/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. ❗️ Opened issue [#27](https://github.com/ankur12-1610/test-act/issues/27) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
-5. ❗️ Opened issue [#26](https://github.com/ankur12-1610/test-act/issues/26) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
+1. 🗣 Commented on [#20478](https://github.com/vector-im/element-web/issues/20478) in [vector-im/element-web](https://github.com/vector-im/element-web)
+2. 🗣 Commented on [#20476](https://github.com/vector-im/element-web/issues/20476) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#20465](https://github.com/vector-im/element-web/issues/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 💪 Opened PR [#20465](https://github.com/vector-im/element-web/pull/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
+5. ❗️ Opened issue [#27](https://github.com/ankur12-1610/test-act/issues/27) in [ankur12-1610/test-act](https://github.com/ankur12-1610/test-act)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
