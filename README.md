@@ -55,10 +55,10 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#798](https://github.com/kiwix/kiwix-js/issues/798) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-2. 🗣 Commented on [#20478](https://github.com/vector-im/element-web/issues/20478) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 🗣 Commented on [#20476](https://github.com/vector-im/element-web/issues/20476) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 🗣 Commented on [#20465](https://github.com/vector-im/element-web/issues/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. 💪 Opened PR [#20465](https://github.com/vector-im/element-web/pull/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
+2. 🗣 Commented on [#798](https://github.com/kiwix/kiwix-js/issues/798) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+3. 🗣 Commented on [#20478](https://github.com/vector-im/element-web/issues/20478) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 🗣 Commented on [#20476](https://github.com/vector-im/element-web/issues/20476) in [vector-im/element-web](https://github.com/vector-im/element-web)
+5. 🗣 Commented on [#20465](https://github.com/vector-im/element-web/issues/20465) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
