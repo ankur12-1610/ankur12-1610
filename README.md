@@ -55,8 +55,8 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20578](https://github.com/vector-im/element-web/issues/20578) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-3. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
+2. 🗣 Commented on [#20578](https://github.com/vector-im/element-web/issues/20578) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 4. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
 5. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
