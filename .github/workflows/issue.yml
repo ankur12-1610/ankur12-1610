@@ -1,0 +1,16 @@
+
+name: 'Pull Request Action 🚀'
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ankur12-1610/demo-action@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_COMMENT:  'thanks for raising the issue' #enter custom message
