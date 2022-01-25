@@ -42,7 +42,13 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
  
 ### My Latest Blog Posts 👇:
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://my-blog.ankurrev.tech//showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime"   /></a>
+<table><tr><td><a href="https://my-blog.ankurrev.tech//build-your-own-github-actions-and-publish-it-in-the-githmarketplace" title="Build your own Github Actions and publish it in the  GithMarketplace!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109105478/H-HnvafL8.png" alt="Build your own Github Actions and publish it in the  GithMarketplace!"   /></a>
+<a href="https://my-blog.ankurrev.tech//build-your-own-github-actions-and-publish-it-in-the-githmarketplace" title="Build your own Github Actions and publish it in the  GithMarketplace!"><strong>Build your own Github Actions and publish it in the  GithMarketplace!</strong></a>
+<div><strong>25 Jan 2022</strong> | <strong>Updated: 25 Jan 2022</strong></div>
+<br/> Introduction:
+Automation, complexity reduction, reproducibility, and maintainability are all advantages that can be realized by a continuous integration (CI) pipeline. With GitHub Actions, you can build these CI pipelines.
+
+"Automate, customize, and ...</td><td><a href="https://my-blog.ankurrev.tech//showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime"   /></a>
 <a href="https://my-blog.ankurrev.tech//showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><strong>Showing off your Dev Metrics on your Github Readme profile using WakaTime</strong></a>
 <div><strong>26 Dec 2021</strong> | <strong>Updated: 29 Dec 2021</strong></div>
 <br/> Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. So, you should put an effort into making your profile stand out. 
