@@ -1,8 +1,8 @@
 
-name: 'Pull Request Action 🚀'
+name: 'Issuse Action'
 
 on:
-  pull_request:
+  issues:
     types: [opened]
 
 jobs:
