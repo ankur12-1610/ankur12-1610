@@ -44,7 +44,7 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://my-blog.ankurrev.tech//build-your-own-github-actions-and-publish-it-in-the-githmarketplace" title="Build your own Github Actions and publish it in the  GithMarketplace!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109105478/H-HnvafL8.png" alt="Build your own Github Actions and publish it in the  GithMarketplace!"   /></a>
 <a href="https://my-blog.ankurrev.tech//build-your-own-github-actions-and-publish-it-in-the-githmarketplace" title="Build your own Github Actions and publish it in the  GithMarketplace!"><strong>Build your own Github Actions and publish it in the  GithMarketplace!</strong></a>
-<div><strong>25 Jan 2022</strong> | <strong>Updated: 25 Jan 2022</strong></div>
+<div><strong>25 Jan 2022</strong> | <strong>Updated: 26 Jan 2022</strong></div>
 <br/> Introduction:
 Automation, complexity reduction, reproducibility, and maintainability are all advantages that can be realized by a continuous integration (CI) pipeline. With GitHub Actions, you can build these CI pipelines.
 
