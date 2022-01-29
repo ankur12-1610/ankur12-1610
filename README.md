@@ -44,13 +44,13 @@ Email id - ankur.patil.cd.mat20@itbhu.ac.in
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://my-blog.ankurrev.tech//build-your-own-github-action-and-publish-to-the-github-marketplace" title="Build your own Github Action and publish to the Github Marketplace!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109105478/H-HnvafL8.png" alt="Build your own Github Action and publish to the Github Marketplace!"   /></a>
 <a href="https://my-blog.ankurrev.tech//build-your-own-github-action-and-publish-to-the-github-marketplace" title="Build your own Github Action and publish to the Github Marketplace!"><strong>Build your own Github Action and publish to the Github Marketplace!</strong></a>
-<div><strong>25 Jan 2022</strong> | <strong>Updated: 27 Jan 2022</strong></div>
+<div><strong>25 Jan 2022</strong> | <strong>Updated: 28 Jan 2022</strong></div>
 <br/> Introduction:
 Automation, complexity reduction, reproducibility, and maintainability are all advantages that can be realized by a continuous integration (CI) pipeline. With GitHub Actions, you can build these CI pipelines.
 
 "Automate, customize, and ...</td><td><a href="https://my-blog.ankurrev.tech//showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640528550235/D91dLLqSr.png" alt="Showing off your Dev Metrics on your Github Readme profile using WakaTime"   /></a>
 <a href="https://my-blog.ankurrev.tech//showing-off-your-dev-metrics-on-your-github-readme-profile-using-wakatime" title="Showing off your Dev Metrics on your Github Readme profile using WakaTime"><strong>Showing off your Dev Metrics on your Github Readme profile using WakaTime</strong></a>
-<div><strong>26 Dec 2021</strong> | <strong>Updated: 29 Dec 2021</strong></div>
+<div><strong>26 Dec 2021</strong> | <strong>Updated: 28 Jan 2022</strong></div>
 <br/> Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. So, you should put an effort into making your profile stand out. 
 One way to do this...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
