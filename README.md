@@ -60,10 +60,10 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+1. 🗣 Commented on [#20816](https://github.com/vector-im/element-web/issues/20816) in [vector-im/element-web](https://github.com/vector-im/element-web)
 2. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-3. ❗️ Opened issue [#20816](https://github.com/vector-im/element-web/issues/20816) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 🗣 Commented on [#20789](https://github.com/vector-im/element-web/issues/20789) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#790](https://github.com/kiwix/kiwix-js/issues/790) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+4. ❗️ Opened issue [#20816](https://github.com/vector-im/element-web/issues/20816) in [vector-im/element-web](https://github.com/vector-im/element-web)
 5. 🗣 Commented on [#20789](https://github.com/vector-im/element-web/issues/20789) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
