@@ -60,11 +60,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ankur12-1610/Polyglot_JS/pull/4) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-2. ❌ Closed PR [#2](https://github.com/ankur12-1610/Polyglot_JS/pull/2) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-3. 💪 Opened PR [#2](https://github.com/ankur12-1610/Polyglot_JS/pull/2) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-4. 🎉 Merged PR [#1](https://github.com/ankur12-1610/Polyglot_JS/pull/1) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-5. 🗣 Commented on [#20816](https://github.com/vector-im/element-web/issues/20816) in [vector-im/element-web](https://github.com/vector-im/element-web)
+1. ❌ Closed PR [#4](https://github.com/ankur12-1610/Polyglot_JS/pull/4) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+2. ❌ Closed PR [#5](https://github.com/ankur12-1610/Polyglot_JS/pull/5) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+3. 💪 Opened PR [#5](https://github.com/ankur12-1610/Polyglot_JS/pull/5) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+4. 💪 Opened PR [#4](https://github.com/ankur12-1610/Polyglot_JS/pull/4) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+5. ❌ Closed PR [#2](https://github.com/ankur12-1610/Polyglot_JS/pull/2) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
