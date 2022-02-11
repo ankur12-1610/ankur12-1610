@@ -60,10 +60,10 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+1. 🗣 Commented on [#14](https://github.com/ankur12-1610/Polyglot_JS/issues/14) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 2. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 3. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-4. 🗣 Commented on [#20789](https://github.com/vector-im/element-web/issues/20789) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 5. 🗣 Commented on [#20789](https://github.com/vector-im/element-web/issues/20789) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
