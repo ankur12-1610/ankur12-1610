@@ -60,9 +60,9 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/ankur12-1610/Polyglot_JS/issues/18) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-2. 🗣 Commented on [#14](https://github.com/ankur12-1610/Polyglot_JS/issues/14) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-3. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+1. 🗣 Commented on [#21](https://github.com/ankur12-1610/Polyglot_JS/issues/21) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+2. 🗣 Commented on [#18](https://github.com/ankur12-1610/Polyglot_JS/issues/18) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+3. 🗣 Commented on [#14](https://github.com/ankur12-1610/Polyglot_JS/issues/14) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 4. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 5. 🗣 Commented on [#13](https://github.com/ankur12-1610/Polyglot_JS/issues/13) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 <!--END_SECTION:activity-->
