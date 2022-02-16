@@ -62,9 +62,9 @@ One way to do this...</td></tr></table>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
 2. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
-3. 🗣 Commented on [#21](https://github.com/ankur12-1610/Polyglot_JS/issues/21) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-4. 🗣 Commented on [#22](https://github.com/ankur12-1610/Polyglot_JS/issues/22) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
-5. 🗣 Commented on [#21](https://github.com/ankur12-1610/Polyglot_JS/issues/21) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+3. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
+4. 🗣 Commented on [#21](https://github.com/ankur12-1610/Polyglot_JS/issues/21) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
+5. 🗣 Commented on [#22](https://github.com/ankur12-1610/Polyglot_JS/issues/22) in [ankur12-1610/Polyglot_JS](https://github.com/ankur12-1610/Polyglot_JS)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
