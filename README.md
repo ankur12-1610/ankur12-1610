@@ -60,11 +60,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#610](https://github.com/getAlby/lightning-browser-extension/issues/610) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
-2. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
-3. 🗣 Commented on [#714](https://github.com/kiwix/libkiwix/issues/714) in [kiwix/libkiwix](https://github.com/kiwix/libkiwix)
-4. 💪 Opened PR [#714](https://github.com/kiwix/libkiwix/pull/714) in [kiwix/libkiwix](https://github.com/kiwix/libkiwix)
-5. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
+1. 🗣 Commented on [#714](https://github.com/kiwix/libkiwix/issues/714) in [kiwix/libkiwix](https://github.com/kiwix/libkiwix)
+2. 🗣 Commented on [#610](https://github.com/getAlby/lightning-browser-extension/issues/610) in [getAlby/lightning-browser-extension](https://github.com/getAlby/lightning-browser-extension)
+3. 🗣 Commented on [#538](https://github.com/kiwix/kiwix-tools/issues/538) in [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools)
+4. 🗣 Commented on [#714](https://github.com/kiwix/libkiwix/issues/714) in [kiwix/libkiwix](https://github.com/kiwix/libkiwix)
+5. 💪 Opened PR [#714](https://github.com/kiwix/libkiwix/pull/714) in [kiwix/libkiwix](https://github.com/kiwix/libkiwix)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
