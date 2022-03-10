@@ -60,11 +60,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
+1. ❗️ Opened issue [#2](https://github.com/ankur12-1610/commit-practice/issues/2) in [ankur12-1610/commit-practice](https://github.com/ankur12-1610/commit-practice)
+2. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
 3. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
 4. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
-5. 🗣 Commented on [#981](https://github.com/llaske/sugarizer/issues/981) in [llaske/sugarizer](https://github.com/llaske/sugarizer)
+5. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
