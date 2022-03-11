@@ -60,9 +60,9 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ankur12-1610/commit-practice/issues/2) in [ankur12-1610/commit-practice](https://github.com/ankur12-1610/commit-practice)
-2. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
+1. 💪 Opened PR [#8](https://github.com/COPS-IITBHU/cops-django-youtube/pull/8) in [COPS-IITBHU/cops-django-youtube](https://github.com/COPS-IITBHU/cops-django-youtube)
+2. ❗️ Opened issue [#2](https://github.com/ankur12-1610/commit-practice/issues/2) in [ankur12-1610/commit-practice](https://github.com/ankur12-1610/commit-practice)
+3. 🗣 Commented on [#20528](https://github.com/vector-im/element-web/issues/20528) in [vector-im/element-web](https://github.com/vector-im/element-web)
 4. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
 5. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
