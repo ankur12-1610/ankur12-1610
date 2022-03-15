@@ -60,10 +60,10 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21421](https://github.com/vector-im/element-web/issues/21421) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. ❗️ Opened issue [#21421](https://github.com/vector-im/element-web/issues/21421) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 🗣 Commented on [#8041](https://github.com/matrix-org/matrix-react-sdk/issues/8041) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 💪 Opened PR [#21422](https://github.com/vector-im/element-web/pull/21422) in [vector-im/element-web](https://github.com/vector-im/element-web)
+2. 🗣 Commented on [#21421](https://github.com/vector-im/element-web/issues/21421) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. ❗️ Opened issue [#21421](https://github.com/vector-im/element-web/issues/21421) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 🗣 Commented on [#21298](https://github.com/vector-im/element-web/issues/21298) in [vector-im/element-web](https://github.com/vector-im/element-web)
 5. 🗣 Commented on [#8041](https://github.com/matrix-org/matrix-react-sdk/issues/8041) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
 
