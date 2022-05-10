@@ -60,9 +60,9 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 🗣 Commented on [#1713](https://github.com/cryptoadvance/specter-desktop/issues/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+2. 💪 Opened PR [#1713](https://github.com/cryptoadvance/specter-desktop/pull/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+3. ❗️ Opened issue [#1712](https://github.com/cryptoadvance/specter-desktop/issues/1712) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 4. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 5. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
