@@ -61,10 +61,10 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7285](https://github.com/matrix-org/matrix-react-sdk/issues/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-2. 🗣 Commented on [#1713](https://github.com/cryptoadvance/specter-desktop/issues/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-3. 💪 Opened PR [#1713](https://github.com/cryptoadvance/specter-desktop/pull/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-4. ❗️ Opened issue [#1712](https://github.com/cryptoadvance/specter-desktop/issues/1712) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-5. 🗣 Commented on [#8530](https://github.com/matrix-org/matrix-react-sdk/issues/8530) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+2. 🗣 Commented on [#7285](https://github.com/matrix-org/matrix-react-sdk/issues/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+3. 🗣 Commented on [#1713](https://github.com/cryptoadvance/specter-desktop/issues/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+4. 💪 Opened PR [#1713](https://github.com/cryptoadvance/specter-desktop/pull/1713) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+5. ❗️ Opened issue [#1712](https://github.com/cryptoadvance/specter-desktop/issues/1712) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
