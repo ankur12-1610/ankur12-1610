@@ -60,9 +60,9 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20044](https://github.com/vector-im/element-web/issues/20044) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. ❌ Closed PR [#7285](https://github.com/matrix-org/matrix-react-sdk/pull/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 🗣 Commented on [#7285](https://github.com/matrix-org/matrix-react-sdk/issues/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 🗣 Commented on [#1722](https://github.com/cryptoadvance/specter-desktop/issues/1722) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+2. ❗️ Closed issue [#20044](https://github.com/vector-im/element-web/issues/20044) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. ❌ Closed PR [#7285](https://github.com/matrix-org/matrix-react-sdk/pull/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 4. 🗣 Commented on [#7285](https://github.com/matrix-org/matrix-react-sdk/issues/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 5. 🗣 Commented on [#7285](https://github.com/matrix-org/matrix-react-sdk/issues/7285) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
