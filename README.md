@@ -61,10 +61,10 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-2. ❗️ Opened issue [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-3. 💪 Opened PR [#1725](https://github.com/cryptoadvance/specter-desktop/pull/1725) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-4. 🗣 Commented on [#1722](https://github.com/cryptoadvance/specter-desktop/issues/1722) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-5. ❗️ Opened issue [#25](https://github.com/COPS-IITBHU/DevTalks/issues/25) in [COPS-IITBHU/DevTalks](https://github.com/COPS-IITBHU/DevTalks)
+2. 🗣 Commented on [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+3. ❗️ Opened issue [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+4. 💪 Opened PR [#1725](https://github.com/cryptoadvance/specter-desktop/pull/1725) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+5. 🗣 Commented on [#1722](https://github.com/cryptoadvance/specter-desktop/issues/1722) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
