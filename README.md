@@ -66,10 +66,10 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/cryptoadvance/specter-desktop/issues/1746) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-2. 💪 Opened PR [#1742](https://github.com/cryptoadvance/specter-desktop/pull/1742) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-3. 💪 Opened PR [#1](https://github.com/COPS-CSOC-2022/CSOC_Week0-namecards/pull/1) in [COPS-CSOC-2022/CSOC_Week0-namecards](https://github.com/COPS-CSOC-2022/CSOC_Week0-namecards)
-4. 🗣 Commented on [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+1. 💪 Opened PR [#1785](https://github.com/cryptoadvance/specter-desktop/pull/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+2. 🗣 Commented on [#1746](https://github.com/cryptoadvance/specter-desktop/issues/1746) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+3. 💪 Opened PR [#1742](https://github.com/cryptoadvance/specter-desktop/pull/1742) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+4. 💪 Opened PR [#1](https://github.com/COPS-CSOC-2022/CSOC_Week0-namecards/pull/1) in [COPS-CSOC-2022/CSOC_Week0-namecards](https://github.com/COPS-CSOC-2022/CSOC_Week0-namecards)
 5. 🗣 Commented on [#1726](https://github.com/cryptoadvance/specter-desktop/issues/1726) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 <!--END_SECTION:activity-->
 
