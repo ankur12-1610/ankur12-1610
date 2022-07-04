@@ -1,9 +1,9 @@
 <div align="center">                                          
 <h2>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a>
+ Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank"e>Ankur</a>
 <h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&width=600&lines=OSS+Contributer+%7C+Bitcoiner+%7C+Technical+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=7000&color=2563EB&width=600&lines=OSS+Contributer+%7C+Bitcoiner+%7C+Technical+Writer)](https://git.io/typing-svg)
 
 <img align="center" src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="Ankur's GH Visitor Count" />
  </h3>
