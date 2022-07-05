@@ -5,29 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=OSS+Contributer+%7C+Bitcoiner+%7C+Technical+Writer)](https://git.io/typing-svg)
 
+<p>
+ <a href="https://ankurrev.tech">
+ <img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
+ <a href="mailto: ankur.patil.cd.mat20@itbhu.ac.in"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
+ <a href="https://www.linkedin.com/in/ankurrap/"><img src="https://img.icons8.com/ios-filled/36/2266EE/linkedin.png"/></a>
+ <a href="https://www.linkedin.com/in/ankurrap/"><img src="https://img.icons8.com/color/36/2266EE/hashnode.png"/></a>
+</p>
+
 <img align="center" src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="Ankur's GH Visitor Count" />
- </h3>
+<a href="https://ankurrev.tech" ><img align="center" src="https://img.shields.io/website?label=ankurrev.tech&url=https%3A%2F%2Fcodestackr.com"></a>
+</h3>
 <img width="300" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
 </div>
- 
-[![Website](https://img.shields.io/website?label=ankurrev.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ankurrev.tech/)
 
-```yaml
-name: Ankur Patil
-located_in: Maharashtra, India
-education-status: 2nd year undergrad in Mathematics and Computing, IIT (BHU) Varanasi
-
-languages: ["C", "C++", "Python", "ECMA6", "TypeScript", "HTML", "CSS", "Julia"]
-
-technical_interests: ["Web-development", "Open-source", "Devops"]
-
-currently_learning: ["Workflows", "REST APIs", "TypeScript"]
-
-hobbies: ["Football", "Basketball", "Skateboarding", "Cycling", "Investment",
-          "Making RC projects"]
-
-worried_about: CLIMATE CHANGE
-```
 ---
 
 ### 🛠️ My favorite tools
@@ -97,11 +88,6 @@ worried_about: CLIMATE CHANGE
  
 </p>
 
----
-
-### Connect with me:
-Email id - ankur.patil.cd.mat20@itbhu.ac.in
-  
 ---
  
 ### My Latest Blog Posts 👇:
