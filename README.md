@@ -122,9 +122,9 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22756](https://github.com/vector-im/element-web/issues/22756) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. ❗️ Opened issue [#22756](https://github.com/vector-im/element-web/issues/22756) in [vector-im/element-web](https://github.com/vector-im/element-web)
-3. 🗣 Commented on [#5623](https://github.com/matrix-org/matrix-react-sdk/issues/5623) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+1. 🗣 Commented on [#5623](https://github.com/matrix-org/matrix-react-sdk/issues/5623) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
+2. 🗣 Commented on [#22756](https://github.com/vector-im/element-web/issues/22756) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. ❗️ Opened issue [#22756](https://github.com/vector-im/element-web/issues/22756) in [vector-im/element-web](https://github.com/vector-im/element-web)
 4. 🗣 Commented on [#5623](https://github.com/matrix-org/matrix-react-sdk/issues/5623) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 5. 🗣 Commented on [#5623](https://github.com/matrix-org/matrix-react-sdk/issues/5623) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
 <!--END_SECTION:activity-->
