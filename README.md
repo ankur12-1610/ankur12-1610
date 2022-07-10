@@ -7,7 +7,7 @@
 
 <p>
  <a href="https://ankurrev.tech"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
- <a href="https://matrix.to/#/ankurrap@element.io">< img src="https://img.icons8.com/ios-filled/36/2266EE/matrix-logo.png"/></a>
+ <a href="https://matrix.to/#/ankurrap@element.io"><img src="https://img.icons8.com/ios-filled/36/2266EE/matrix-logo.png"/></a>
  <a href="mailto: ankur.patil.cd.mat20@itbhu.ac.in"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
  <a href="https://www.linkedin.com/in/ankurrap/"><img src="https://img.icons8.com/ios-filled/36/2266EE/linkedin.png"/></a>
  <a href="https://my-blog.ankurrev.tech//"><img src="https://img.icons8.com/color/36/2266EE/hashnode.png"/></a>
