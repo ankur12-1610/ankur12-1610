@@ -94,7 +94,7 @@
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://my-blog.ankurrev.tech//specter-sob-1" title="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656862908396/J9knlsb49.png" alt="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"   /></a>
 <a href="https://my-blog.ankurrev.tech//specter-sob-1" title="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"><strong>Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22</strong></a>
-<div><strong>3 July 2022</strong> | <strong>Updated: 3 July 2022</strong></div>
+<div><strong>3 July 2022</strong> | <strong>Updated: 10 July 2022</strong></div>
 <br/> Abstract
 Specter Desktop is a desktop GUI for Bitcoin Core optimized to work with hardware wallets.
 
