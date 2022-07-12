@@ -140,7 +140,7 @@ One way to do this...</td></tr></table>
   
 <p>
    
- <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
 <em><b> I love contributing to opensource :)</em>
 </p>
 
