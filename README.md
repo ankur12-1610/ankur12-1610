@@ -144,4 +144,4 @@ One way to do this...</td></tr></table>
 <em><b> I love contributing to opensource :)</em>
 </p>
 
- <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
