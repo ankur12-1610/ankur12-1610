@@ -118,11 +118,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ankur12-1610/ankur12-1610/pull/1) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
-2. ❌ Closed PR [#2](https://github.com/ankur12-1610/ankur12-1610/pull/2) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
-3. ❌ Closed PR [#3](https://github.com/ankur12-1610/ankur12-1610/pull/3) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
-4. ❌ Closed PR [#4](https://github.com/ankur12-1610/ankur12-1610/pull/4) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
-5. ❌ Closed PR [#6](https://github.com/ankur12-1610/ankur12-1610/pull/6) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
+1. 🎉 Merged PR [#10](https://github.com/ankur12-1610/ankur12-1610/pull/10) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
+2. 💪 Opened PR [#10](https://github.com/ankur12-1610/ankur12-1610/pull/10) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
+3. ❌ Closed PR [#1](https://github.com/ankur12-1610/ankur12-1610/pull/1) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
+4. ❌ Closed PR [#2](https://github.com/ankur12-1610/ankur12-1610/pull/2) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
+5. ❌ Closed PR [#3](https://github.com/ankur12-1610/ankur12-1610/pull/3) in [ankur12-1610/ankur12-1610](https://github.com/ankur12-1610/ankur12-1610)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
