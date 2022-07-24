@@ -118,11 +118,11 @@ One way to do this...</td></tr></table>
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22925](https://github.com/vector-im/element-web/issues/22925) in [vector-im/element-web](https://github.com/vector-im/element-web)
-2. 🗣 Commented on [#9093](https://github.com/matrix-org/matrix-react-sdk/issues/9093) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-3. 💪 Opened PR [#22925](https://github.com/vector-im/element-web/pull/22925) in [vector-im/element-web](https://github.com/vector-im/element-web)
-4. 💪 Opened PR [#9093](https://github.com/matrix-org/matrix-react-sdk/pull/9093) in [matrix-org/matrix-react-sdk](https://github.com/matrix-org/matrix-react-sdk)
-5. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+1. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
+2. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
+4. 💪 Opened PR [#22926](https://github.com/vector-im/element-web/pull/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
+5. ❌ Closed PR [#22925](https://github.com/vector-im/element-web/pull/22925) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
