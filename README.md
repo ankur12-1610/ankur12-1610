@@ -120,7 +120,7 @@ One way to do this...</td></tr></table>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 2. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-3. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
+3. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
 4. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
 5. 🗣 Commented on [#22926](https://github.com/vector-im/element-web/issues/22926) in [vector-im/element-web](https://github.com/vector-im/element-web)
 <!--END_SECTION:activity-->
