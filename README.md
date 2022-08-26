@@ -90,7 +90,7 @@
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://my-blog.ankurrev.tech//specter-sob-final" title="Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661357884206/clyKLsXzY.png" alt="Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22"   /></a>
 <a href="https://my-blog.ankurrev.tech//specter-sob-final" title="Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22"><strong>Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22</strong></a>
-<div><strong>24 Aug 2022</strong> | <strong>Updated: 24 Aug 2022</strong></div>
+<div><strong>24 Aug 2022</strong> | <strong>Updated: 25 Aug 2022</strong></div>
 <br/> Abstract
 This blog covers the work that I've done post mid-term evaluation. In the last part, I implemented the token generation part which included generating and saving the token in the users.json file, which acts as the local database of the user....</td><td><a href="https://my-blog.ankurrev.tech//specter-sob-1" title="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656862908396/J9knlsb49.png" alt="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"   /></a>
 <a href="https://my-blog.ankurrev.tech//specter-sob-1" title="Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22"><strong>Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22</strong></a>
