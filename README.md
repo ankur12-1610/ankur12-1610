@@ -123,10 +123,10 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1071](https://github.com/AppFlowy-IO/AppFlowy/issues/1071) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-2. 🗣 Commented on [#1059](https://github.com/AppFlowy-IO/AppFlowy/issues/1059) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-3. 🗣 Commented on [#1071](https://github.com/AppFlowy-IO/AppFlowy/issues/1071) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-4. ❗️ Closed issue [#89](https://github.com/ankur12-1610/pull-request-action/issues/89) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
-5. 🎉 Merged PR [#90](https://github.com/ankur12-1610/pull-request-action/pull/90) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
+2. 🗣 Commented on [#1071](https://github.com/AppFlowy-IO/AppFlowy/issues/1071) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+3. 🗣 Commented on [#1059](https://github.com/AppFlowy-IO/AppFlowy/issues/1059) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+4. 🗣 Commented on [#1071](https://github.com/AppFlowy-IO/AppFlowy/issues/1071) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+5. ❗️ Closed issue [#89](https://github.com/ankur12-1610/pull-request-action/issues/89) in [ankur12-1610/pull-request-action](https://github.com/ankur12-1610/pull-request-action)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
