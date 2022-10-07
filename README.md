@@ -123,10 +123,10 @@ One way to do this...</td></tr></table>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
-2. 💪 Opened PR [#1217](https://github.com/AppFlowy-IO/AppFlowy/pull/1217) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-3. ❗️ Opened issue [#1216](https://github.com/AppFlowy-IO/AppFlowy/issues/1216) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-4. 🗣 Commented on [#1215](https://github.com/AppFlowy-IO/AppFlowy/issues/1215) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-5. 💪 Opened PR [#1215](https://github.com/AppFlowy-IO/AppFlowy/pull/1215) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+2. 🗣 Commented on [#1215](https://github.com/AppFlowy-IO/AppFlowy/issues/1215) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+3. 🗣 Commented on [#1785](https://github.com/cryptoadvance/specter-desktop/issues/1785) in [cryptoadvance/specter-desktop](https://github.com/cryptoadvance/specter-desktop)
+4. 💪 Opened PR [#1217](https://github.com/AppFlowy-IO/AppFlowy/pull/1217) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+5. ❗️ Opened issue [#1216](https://github.com/AppFlowy-IO/AppFlowy/issues/1216) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 <!--END_SECTION:activity-->
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
