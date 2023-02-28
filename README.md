@@ -121,11 +121,11 @@ Automation, complexity reduction, reproducibility, and maintainability are all a
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#969](https://github.com/kiwix/kiwix-js/issues/969) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-2. 🗣 Commented on [#5185](https://github.com/cortexproject/cortex/issues/5185) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
-3. 🗣 Commented on [#5184](https://github.com/cortexproject/cortex/issues/5184) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
-4. 💪 Opened PR [#5185](https://github.com/cortexproject/cortex/pull/5185) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
-5. 🗣 Commented on [#1120](https://github.com/GoogleCloudPlatform/testgrid/issues/1120) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+1. 🗣 Commented on [#969](https://github.com/kiwix/kiwix-js/issues/969) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+2. ❗️ Opened issue [#969](https://github.com/kiwix/kiwix-js/issues/969) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+3. 🗣 Commented on [#5185](https://github.com/cortexproject/cortex/issues/5185) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
+4. 🗣 Commented on [#5184](https://github.com/cortexproject/cortex/issues/5184) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
+5. 💪 Opened PR [#5185](https://github.com/cortexproject/cortex/pull/5185) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
 <!--END_SECTION:activity-->
  
 ---
