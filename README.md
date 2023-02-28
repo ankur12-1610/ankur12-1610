@@ -127,14 +127,11 @@ Automation, complexity reduction, reproducibility, and maintainability are all a
 4. 🗣 Commented on [#891](https://github.com/kiwix/kiwix-js/issues/891) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
 5. 🗣 Commented on [#5153](https://github.com/cortexproject/cortex/issues/5153) in [cortexproject/cortex](https://github.com/cortexproject/cortex)
 <!--END_SECTION:activity-->
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ankur12-1610&custom_title=Ankur's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---
 
 ### Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur12-1610&theme=dracula)](https://git.io/streak-stats)
-![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons&theme=dracula)
+![Ankur's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankur12-1610&theme=react)
 ---
   
 <p>
