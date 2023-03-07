@@ -121,11 +121,11 @@ Automation, complexity reduction, reproducibility, and maintainability are all a
 ### :zap: Recent Activity:
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1087](https://github.com/GoogleCloudPlatform/testgrid/issues/1087) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
-2. 🗣 Commented on [#971](https://github.com/kiwix/kiwix-js/issues/971) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-3. ❌ Closed PR [#20146](https://github.com/zulip/zulip/pull/20146) in [zulip/zulip](https://github.com/zulip/zulip)
-4. ❌ Closed PR [#1](https://github.com/vinay10949/DLogProof/pull/1) in [vinay10949/DLogProof](https://github.com/vinay10949/DLogProof)
-5. 🗣 Commented on [#1151](https://github.com/GoogleCloudPlatform/testgrid/issues/1151) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+1. 🗣 Commented on [#891](https://github.com/kiwix/kiwix-js/issues/891) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+2. 🗣 Commented on [#295](https://github.com/kiwix/kiwix-js-windows/issues/295) in [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows)
+3. 🗣 Commented on [#1087](https://github.com/GoogleCloudPlatform/testgrid/issues/1087) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+4. 🗣 Commented on [#971](https://github.com/kiwix/kiwix-js/issues/971) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+5. ❌ Closed PR [#20146](https://github.com/zulip/zulip/pull/20146) in [zulip/zulip](https://github.com/zulip/zulip)
 <!--END_SECTION:activity-->
  
 ---
