@@ -3,10 +3,8 @@
  Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank"e>Ankur</a>
 <h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=2563EB&center=true&width=600&lines=OSS+Contributor+%7C+Bitcoiner+%7C+Technical+Writer)](https://git.io/typing-svg)
-
 <p>
- <a href="https://ankurrev.tech"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
+ <a href="https://ankur.codes"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
  <a href="https://matrix.to/#/@ankur12:matrix.org"><img src="https://img.icons8.com/ios-filled/36/2266EE/matrix-logo.png"/></a>
  <a href="mailto: ankur.patil.cd.mat20@itbhu.ac.in"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
  <a href="https://www.linkedin.com/in/ankurrap/"><img src="https://img.icons8.com/ios-filled/36/2266EE/linkedin.png"/></a>
