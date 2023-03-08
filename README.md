@@ -18,7 +18,7 @@
 
 <img width="300" height="400" align="right" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
 
-As a tech enthusiast and open-source contributor, I am deeply passionate about <br>exploring and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, <br> and I am currently focused on the exciting fields of Cloud Computing and Cryptography. <br></br>In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. You can find my latest work on my personal website, 
+As a tech enthusiast and open-source contributor, I am deeply passionate about exploring <br>and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, <br> and I am currently focused on the exciting fields of Cloud Computing and Cryptography. <br></br>In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. You can find my latest work on my personal website, 
 [ankur.codes](https://www.ankur.codes)
 
 
