@@ -44,11 +44,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/openzim/nautilus/issues/46) in [openzim/nautilus](https://github.com/openzim/nautilus)
-2. 🗣 Commented on [#46](https://github.com/openzim/nautilus/issues/46) in [openzim/nautilus](https://github.com/openzim/nautilus)
-3. 🗣 Commented on [#971](https://github.com/kiwix/kiwix-js/issues/971) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-4. 🗣 Commented on [#971](https://github.com/kiwix/kiwix-js/issues/971) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
-5. 🗣 Commented on [#891](https://github.com/kiwix/kiwix-js/issues/891) in [kiwix/kiwix-js](https://github.com/kiwix/kiwix-js)
+1. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+2. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+3. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+4. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+5. 💪 Opened PR [#48](https://github.com/openzim/nautilus/pull/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 <!--END_SECTION:activity-->
 
 #
