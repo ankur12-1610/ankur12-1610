@@ -48,7 +48,7 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 2. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 3. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 4. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
-5. 💪 Opened PR [#48](https://github.com/openzim/nautilus/pull/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+5. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 <!--END_SECTION:activity-->
 
 #
