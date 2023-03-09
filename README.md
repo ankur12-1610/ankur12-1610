@@ -16,15 +16,20 @@
 </h3>
 </div>
 
-<img width="300" height="400" align="right" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
+<img width="250" height="250" align="right" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
+<br><br>
 
-As a tech enthusiast and open-source contributor, I am deeply passionate about exploring <br>and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, <br> and I am currently focused on the exciting fields of Cloud Computing and Cryptography. <br></br>In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. You can find my latest work on my personal website, 
+As a tech enthusiast and open-source contributor, I am deeply passionate about exploring and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, and I am currently focused on the exciting fields of Cloud Computing and Cryptography. <br></br>In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. You can find my latest work on my personal website, 
 [ankur.codes](https://www.ankur.codes)
 
+<br>
+
+#
 
 ### GitHub Stats: 
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons=true&include_all_commits=true&theme=buefy" alt="Ankur's github stats" />
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #
   
