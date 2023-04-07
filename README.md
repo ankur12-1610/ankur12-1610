@@ -48,8 +48,8 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
-2. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
+1. 🗣 Commented on [#1179](https://github.com/GoogleCloudPlatform/testgrid/issues/1179) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+2. 💪 Opened PR [#1179](https://github.com/GoogleCloudPlatform/testgrid/pull/1179) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
 3. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 4. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
 5. 🗣 Commented on [#48](https://github.com/openzim/nautilus/issues/48) in [openzim/nautilus](https://github.com/openzim/nautilus)
