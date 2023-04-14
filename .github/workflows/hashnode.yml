@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'ankur12' # Hashnode Username
           COUNT: 5 # MAX Visisble
-          BLOG_URL: 'https://my-blog.ankurrev.tech/'
+          BLOG_URL: 'https://blog.ankur.codes/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
