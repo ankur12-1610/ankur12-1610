@@ -36,11 +36,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### My Latest Blog Posts 👇:
 
 <!-- HASHNODE_BLOG:START -->
-- [My Journey: Getting Selected in Summer of Bitcoin '22](https://my-blog.ankurrev.tech//journeysob)
-- [Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22](https://my-blog.ankurrev.tech//specter-sob-final)
-- [Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22](https://my-blog.ankurrev.tech//specter-sob-1)
-- [SpaceVim as IDE](https://my-blog.ankurrev.tech//spacevim)
-- [Build your own Github Action and publish to the Github Marketplace!](https://my-blog.ankurrev.tech//build-your-own-github-action-and-publish-to-the-github-marketplace)
+- [My Journey: Getting Selected in Summer of Bitcoin '22](https://blog.ankur.codes//journeysob)
+- [Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22](https://blog.ankur.codes//specter-sob-final)
+- [Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22](https://blog.ankur.codes//specter-sob-1)
+- [SpaceVim as IDE](https://blog.ankur.codes//spacevim)
+- [Build your own Github Action and publish to the Github Marketplace!](https://blog.ankur.codes//build-your-own-github-action-and-publish-to-the-github-marketplace)
 <!-- HASHNODE_BLOG:END -->
 
 #
