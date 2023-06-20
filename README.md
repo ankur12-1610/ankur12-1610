@@ -49,11 +49,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-2. 🗣 Commented on [#1209](https://github.com/GoogleCloudPlatform/testgrid/issues/1209) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+1. 🗣 Commented on [#158](https://github.com/COPS-IITBHU/sdg-site/issues/158) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 💪 Opened PR [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 3. 🗣 Commented on [#1209](https://github.com/GoogleCloudPlatform/testgrid/issues/1209) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
 4. 🗣 Commented on [#1209](https://github.com/GoogleCloudPlatform/testgrid/issues/1209) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
-5. 💪 Opened PR [#1209](https://github.com/GoogleCloudPlatform/testgrid/pull/1209) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
+5. 🗣 Commented on [#1209](https://github.com/GoogleCloudPlatform/testgrid/issues/1209) in [GoogleCloudPlatform/testgrid](https://github.com/GoogleCloudPlatform/testgrid)
 <!--END_SECTION:activity-->
 
 #
