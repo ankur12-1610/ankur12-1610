@@ -28,8 +28,6 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 
 ### GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a>
-| ------------- | ------------- |
-
 #
   
 
