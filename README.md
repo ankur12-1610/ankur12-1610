@@ -27,7 +27,7 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 #
 
 ### GitHub Stats: 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur12-1610&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a>
 | ------------- | ------------- |
 
 #
