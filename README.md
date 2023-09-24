@@ -1,6 +1,6 @@
 <div align="center">                                          
-<h2>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a>
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+ <p>Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a></p>
 <h3>
 
 <p>
