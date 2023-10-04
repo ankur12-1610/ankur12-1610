@@ -47,11 +47,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#593](https://github.com/keyval-dev/odigos/issues/593) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-2. 🗣 Commented on [#574](https://github.com/keyval-dev/odigos/issues/574#issuecomment-1747362439) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-3. 🎉 Merged PR [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
-4. 🗣 Commented on [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1#issuecomment-1706968876) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
-5. 💪 Opened PR [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#595](https://github.com/keyval-dev/odigos/pull/595#issuecomment-1747451628) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+2. 💪 Opened PR [#595](https://github.com/keyval-dev/odigos/pull/595) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+3. 🗣 Commented on [#571](https://github.com/keyval-dev/odigos/issues/571#issuecomment-1747419676) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+4. 🗣 Commented on [#594](https://github.com/keyval-dev/odigos/pull/594#issuecomment-1747401636) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+5. 💪 Opened PR [#594](https://github.com/keyval-dev/odigos/pull/594) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 <!--END_SECTION:activity-->
 
 #
