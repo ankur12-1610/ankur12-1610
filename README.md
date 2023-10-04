@@ -47,10 +47,10 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
-2. 🗣 Commented on [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1#issuecomment-1706968876) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
-3. 🗣 Commented on [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158#issuecomment-1598410441) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158#issuecomment-1598327454) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. ❗ Opened issue [#593](https://github.com/keyval-dev/odigos/issues/593) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+2. 🗣 Commented on [#574](https://github.com/keyval-dev/odigos/issues/574#issuecomment-1747362439) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+3. 🎉 Merged PR [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
+4. 🗣 Commented on [#1](https://github.com/ankur12-1610/IITBHU_wifi_logger/pull/1#issuecomment-1706968876) in [ankur12-1610/IITBHU_wifi_logger](https://github.com/ankur12-1610/IITBHU_wifi_logger)
 5. 💪 Opened PR [#158](https://github.com/COPS-IITBHU/sdg-site/pull/158) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
