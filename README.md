@@ -47,11 +47,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752401278) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-2. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-3. 🗣 Commented on [#7509](https://github.com/mindsdb/mindsdb/issues/7509#issuecomment-1748616277) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-4. 🗣 Commented on [#595](https://github.com/keyval-dev/odigos/pull/595#issuecomment-1747451628) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-5. 💪 Opened PR [#595](https://github.com/keyval-dev/odigos/pull/595) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+1. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+2. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752401278) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+3. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+4. 🗣 Commented on [#7509](https://github.com/mindsdb/mindsdb/issues/7509#issuecomment-1748616277) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+5. 🗣 Commented on [#595](https://github.com/keyval-dev/odigos/pull/595#issuecomment-1747451628) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 <!--END_SECTION:activity-->
 
 #
