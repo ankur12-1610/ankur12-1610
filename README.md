@@ -47,11 +47,11 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#594](https://github.com/keyval-dev/odigos/pull/594) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-2. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752401278) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-4. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-5. 🗣 Commented on [#7509](https://github.com/mindsdb/mindsdb/issues/7509#issuecomment-1748616277) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. ❗ Opened issue [#1381](https://github.com/adityatelange/hugo-PaperMod/issues/1381) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+2. ❌ Closed PR [#594](https://github.com/keyval-dev/odigos/pull/594) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+3. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752401278) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+5. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 <!--END_SECTION:activity-->
 
 #
