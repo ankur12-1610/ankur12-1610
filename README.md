@@ -1,6 +1,6 @@
 <div align="center">                                          
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
- <p>Hi there!, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a></p>
+ <p>Namaste, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a></p>
 <h3>
 
 <p>
@@ -16,11 +16,12 @@
 </h3>
 </div>
 
-<img width="250" height="250" align="right" src="https://media.giphy.com/media/JtwISFbwSjfIk/giphy.gif">
-<br><br>
+# 
+I’m Ankur Patil, your friendly neighborhood developer with a passion for creating things.
 
-As a tech enthusiast and open-source contributor, I am deeply passionate about exploring and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, and I am currently focused on the exciting fields of Cloud Computing and Cryptography. <br></br>In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. You can find my latest work on my personal website, 
-[ankur12-1610.github.io](https://ankur12-1610.github.io/)
+As a tech enthusiast and open-source contributor, I am deeply passionate about exploring and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, and I am currently focused on the exciting fields of Cloud Computing and Cryptography. In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. 
+
+You can find my latest work on my personal website, [ankur12-1610.github.io](https://ankur12-1610.github.io/)
 
 <br>
 
