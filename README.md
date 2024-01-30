@@ -48,10 +48,10 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1381](https://github.com/adityatelange/hugo-PaperMod/issues/1381) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-2. ❌ Closed PR [#594](https://github.com/keyval-dev/odigos/pull/594) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
-3. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-4. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752401278) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+1. ❗ Opened issue [#5](https://github.com/bittranslateio/bittranslate/issues/5) in [bittranslateio/bittranslate](https://github.com/bittranslateio/bittranslate)
+2. ❗ Opened issue [#1381](https://github.com/adityatelange/hugo-PaperMod/issues/1381) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+3. ❌ Closed PR [#594](https://github.com/keyval-dev/odigos/pull/594) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+4. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 5. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 <!--END_SECTION:activity-->
 
