@@ -1,10 +1,10 @@
 <div align="center">                                          
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
- <p>Namaste, I'm <a href="http://ankurrev.tech/" target="_blank">Ankur</a></p>
+ <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Ankur</a></p>
 <h3>
 
 <p>
- <a href="https://ankur.codes"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
+ <a href="http://ankur12-1610.github.io/"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
  <a href="https://matrix.to/#/@ankur12:matrix.org"><img src="https://img.icons8.com/ios-filled/36/2266EE/matrix-logo.png"/></a>
  <a href="mailto: ankur.patil.cd.mat20@itbhu.ac.in"><img src="https://img.icons8.com/material-rounded/36/2266EE/mail.png"/></a>
  <a href="https://www.linkedin.com/in/ankurrap/"><img src="https://img.icons8.com/ios-filled/36/2266EE/linkedin.png"/></a>
@@ -12,7 +12,7 @@
 </p>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=ankur12-1610" alt="Ankur's GH Visitor Count" />
-<a href="https://ankur.codes" ><img align="center" src="https://img.shields.io/website?label=ankur.codes&url=https%3A%2F%2Fcodestackr.com"></a>
+<a href="http://ankur12-1610.github.io/" ><img align="center" src="https://img.shields.io/website?label=ankur12-1610.github.io&url=https%3A%2F%2Fcodestackr.com"></a>
 </h3>
 </div>
 
