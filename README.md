@@ -23,14 +23,9 @@ As a tech enthusiast and open-source contributor, I am deeply passionate about e
 
 You can find my latest work on my personal website, [ankur12-1610.github.io](https://ankur12-1610.github.io/)
 
-<br>
-
 #
-
-### GitHub Stats: 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a>
-#
-  
+<!--### GitHub Stats: 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://streak-stats.demolab.com/?user=ankur12-1610&theme=buefy&hide_border=true" /></a>-->
 
 ### My Latest Blog Posts 👇:
 
