@@ -43,10 +43,10 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1138](https://github.com/ethereum-push-notification-service/push-sdk/pull/1138) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
-2. ❗ Opened issue [#5](https://github.com/bittranslateio/bittranslate/issues/5) in [bittranslateio/bittranslate](https://github.com/bittranslateio/bittranslate)
-3. ❗ Opened issue [#1381](https://github.com/adityatelange/hugo-PaperMod/issues/1381) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-4. ❗ Opened issue [#168](https://github.com/COPS-IITBHU/sdg-site/issues/168) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+1. 🗣 Commented on [#1138](https://github.com/ethereum-push-notification-service/push-sdk/pull/1138#issuecomment-1976627549) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+2. 💪 Opened PR [#1138](https://github.com/ethereum-push-notification-service/push-sdk/pull/1138) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+3. ❗ Opened issue [#5](https://github.com/bittranslateio/bittranslate/issues/5) in [bittranslateio/bittranslate](https://github.com/bittranslateio/bittranslate)
+4. ❗ Opened issue [#1381](https://github.com/adityatelange/hugo-PaperMod/issues/1381) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 5. 🗣 Commented on [#614](https://github.com/keyval-dev/odigos/issues/614#issuecomment-1752040599) in [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
 <!--END_SECTION:activity-->
 
