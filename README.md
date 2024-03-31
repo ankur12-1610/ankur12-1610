@@ -43,11 +43,11 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1191](https://github.com/push-protocol/push-sdk/issues/1191) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
-2. ❗ Opened issue [#1170](https://github.com/ethereum-push-notification-service/push-sdk/issues/1170) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
-3. 🗣 Commented on [#1154](https://github.com/ethereum-push-notification-service/push-sdk/pull/1154#issuecomment-1983268889) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
-4. 💪 Opened PR [#1154](https://github.com/ethereum-push-notification-service/push-sdk/pull/1154) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
-5. 🗣 Commented on [#1138](https://github.com/ethereum-push-notification-service/push-sdk/pull/1138#issuecomment-1976627549) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+1. 💪 Opened PR [#1196](https://github.com/push-protocol/push-sdk/pull/1196) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
+2. ❗ Opened issue [#1191](https://github.com/push-protocol/push-sdk/issues/1191) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
+3. ❗ Opened issue [#1170](https://github.com/ethereum-push-notification-service/push-sdk/issues/1170) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+4. 🗣 Commented on [#1154](https://github.com/ethereum-push-notification-service/push-sdk/pull/1154#issuecomment-1983268889) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
+5. 💪 Opened PR [#1154](https://github.com/ethereum-push-notification-service/push-sdk/pull/1154) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
 <!--END_SECTION:activity-->
 
 #
