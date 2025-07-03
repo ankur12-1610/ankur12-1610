@@ -2,7 +2,7 @@
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
  <p>Namaste, I'm <a href="http://ankur12-1610.github.io/" target="_blank">Ankur</a></p>
 <h3>
-
+ 
 <p>
  <a href="http://ankur12-1610.github.io/"><img src="https://img.icons8.com/pastel-glyph/36/2266EE/internet.png"/></a>
  <a href="https://matrix.to/#/@ankur12:matrix.org"><img src="https://img.icons8.com/ios-filled/36/2266EE/matrix-logo.png"/></a>
@@ -16,8 +16,8 @@
 </h3>
 </div>
 
-# 
-Hey, I’m Ankur Patil. I graduated with Dual Degree (Bachelors + Masters) in
+#
+I hold a Dual Degree (Bachelors + Masters) in
 Mathematics and Computing from the Indian Institute of Technology (BHU) Varanasi.
 
 I’ll win be joining Dream11 as Software Engineer 1 in mid-July 2025.
@@ -25,6 +25,7 @@ I’ll win be joining Dream11 as Software Engineer 1 in mid-July 2025.
 Currently, exploring AI (LLM oriented) and Blockchain. Passionate about Software Engineering and Open Source.
 
 In my free time, you’ll find me on the football field — or at my laptop, diving deep into system tweaks when I’m not in the mood for something productive. I also try writing blogs. (Still working on making it a habit.)
+
 
 You can find my latest work on my personal website, [ankur12-1610.github.io](https://ankur12-1610.github.io/)
 
@@ -55,9 +56,9 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 5. ❗ Opened issue [#1170](https://github.com/ethereum-push-notification-service/push-sdk/issues/1170) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
 <!--END_SECTION:activity-->
 
-#
+<!-- # -->
  
-<details>
+<!-- <details>
  <summary><h3>My favorite tools 🛠️:</h3></summary>
 
 #### 👨‍💻 Programming and markup languages
@@ -122,12 +123,13 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 </p>
 </details>
 
-#
+# -->
 
-<p>
+<!-- <p>
    
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
 <em><b> I love contributing to opensource :)</em>
 </p>
 
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
+
