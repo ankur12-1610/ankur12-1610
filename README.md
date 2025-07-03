@@ -36,6 +36,13 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### My Latest Blog Posts 👇:
 
 <!-- HASHNODE_BLOG:START -->
+- [Hacking JWT Tokens: By Bruteforcing Weak Signing Key](https://ankurrev.hashnode.dev/hacking-jwt-tokens-by-bruteforcing-weak-signing-key)
+- [My LFX Mentorship Journey with CNCF: Kubernetes](https://ankurrev.hashnode.dev/lfx-journey)
+- [My Journey: Getting Selected in Summer of Bitcoin '22](https://ankurrev.hashnode.dev/journeysob)
+- [Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22](https://ankurrev.hashnode.dev/specter-sob-final)
+- [Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22](https://ankurrev.hashnode.dev/specter-sob-1)
+- [SpaceVim as IDE](https://ankurrev.hashnode.dev/spacevim)
+
 <!-- HASHNODE_BLOG:END -->
 
 #
