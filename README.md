@@ -36,12 +36,6 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### My Latest Blog Posts 👇:
 
 <!-- HASHNODE_BLOG:START -->
-- [Hacking JWT Tokens: By Bruteforcing Weak Signing Key](https://blog.ankur.codes//hacking-jwt-tokens-by-bruteforcing-weak-signing-key)
-- [My LFX Mentorship Journey with CNCF: Kubernetes](https://blog.ankur.codes//lfx-journey)
-- [My Journey: Getting Selected in Summer of Bitcoin '22](https://blog.ankur.codes//journeysob)
-- [Access tokens for Specter's REST API: Final Evaluation | Summer of Bitcoin '22](https://blog.ankur.codes//specter-sob-final)
-- [Access tokens for Specter's REST API: Part 1 | Summer of Bitcoin '22](https://blog.ankur.codes//specter-sob-1)
-- [SpaceVim as IDE](https://blog.ankur.codes//spacevim)
 <!-- HASHNODE_BLOG:END -->
 
 #
@@ -49,11 +43,6 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 ### Recent Activity :zap::
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1230](https://github.com/push-protocol/push-sdk/pull/1230#issuecomment-2072657638) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
-2. 💪 Opened PR [#1230](https://github.com/push-protocol/push-sdk/pull/1230) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
-3. 💪 Opened PR [#1196](https://github.com/push-protocol/push-sdk/pull/1196) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
-4. ❗ Opened issue [#1191](https://github.com/push-protocol/push-sdk/issues/1191) in [push-protocol/push-sdk](https://github.com/push-protocol/push-sdk)
-5. ❗ Opened issue [#1170](https://github.com/ethereum-push-notification-service/push-sdk/issues/1170) in [ethereum-push-notification-service/push-sdk](https://github.com/ethereum-push-notification-service/push-sdk)
 <!--END_SECTION:activity-->
 
 <!-- # -->
