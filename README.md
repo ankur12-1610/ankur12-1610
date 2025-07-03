@@ -17,9 +17,14 @@
 </div>
 
 # 
-I’m Ankur Patil, your friendly neighborhood developer with a passion for creating things.
+Hey, I’m Ankur Patil. I graduated with Dual Degree (Bachelors + Masters) in
+Mathematics and Computing from the Indian Institute of Technology (BHU) Varanasi.
 
-As a tech enthusiast and open-source contributor, I am deeply passionate about exploring and leveraging cutting-edge technologies. My expertise lies in APIs, DevOps, and Blockchain, and I am currently focused on the exciting fields of Cloud Computing and Cryptography. In my spare time, I enjoy sharing my knowledge with the tech community through my technical blogs. 
+I’ll win be joining Dream11 as Software Engineer 1 in mid-July 2025.
+
+Currently, exploring AI (LLM oriented) and Blockchain. Passionate about Software Engineering and Open Source.
+
+In my free time, you’ll find me on the football field — or at my laptop, diving deep into system tweaks when I’m not in the mood for something productive. I also try writing blogs. (Still working on making it a habit.)
 
 You can find my latest work on my personal website, [ankur12-1610.github.io](https://ankur12-1610.github.io/)
 
