@@ -45,13 +45,6 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 
 <!-- HASHNODE_BLOG:END -->
 
-#
-
-### Recent Activity :zap::
- 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <!-- # -->
  
 <!-- <details>
