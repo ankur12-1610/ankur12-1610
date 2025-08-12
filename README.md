@@ -20,9 +20,9 @@
 I hold a Dual Degree (Bachelors + Masters) in
 Mathematics and Computing from the Indian Institute of Technology (BHU) Varanasi.
 
-I’ll win be joining Dream11 as Software Engineer 1 in mid-July 2025.
+Working at Dream11 as Software Engineer 1.
 
-Currently, exploring AI (LLM oriented) and Blockchain. Passionate about Software Engineering and Open Source.
+Currently, learning Reactive Programming. Passionate about Software Engineering and Open Source.
 
 In my free time, you’ll find me on the football field — or at my laptop, diving deep into system tweaks when I’m not in the mood for something productive. I also try writing blogs. (Still working on making it a habit.)
 
@@ -121,4 +121,5 @@ You can find my latest work on my personal website, [ankur12-1610.github.io](htt
 </p>
 
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
+
 
